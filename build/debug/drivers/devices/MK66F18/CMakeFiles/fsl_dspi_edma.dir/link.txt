@@ -1,0 +1,2 @@
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\ARM-NO~2.EXE qc libfsl_dspi_edma.a CMakeFiles/fsl_dspi_edma.dir/drivers/fsl_dspi_edma.c.obj
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\AR17F9~1.EXE libfsl_dspi_edma.a

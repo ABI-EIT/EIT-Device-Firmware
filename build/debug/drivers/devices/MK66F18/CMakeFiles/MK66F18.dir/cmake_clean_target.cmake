@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libMK66F18.a"
+)

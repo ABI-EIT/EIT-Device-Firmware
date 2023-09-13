@@ -1,0 +1,2 @@
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\ARM-NO~2.EXE qc libSEGGER_HardFault_Handler.a CMakeFiles/SEGGER_HardFault_Handler.dir/HardFault_Handler.S.obj CMakeFiles/SEGGER_HardFault_Handler.dir/HardFault_Handler.c.obj
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\AR17F9~1.EXE libSEGGER_HardFault_Handler.a

@@ -1,0 +1,3 @@
+file(REMOVE_RECURSE
+  "libCD74HC4067.a"
+)

@@ -1,0 +1,2 @@
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\ARM-NO~2.EXE qc libTEENSY36.a CMakeFiles/TEENSY36.dir/board.c.obj CMakeFiles/TEENSY36.dir/clock_config.c.obj CMakeFiles/TEENSY36.dir/pin_mux.c.obj CMakeFiles/TEENSY36.dir/peripherals.c.obj
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\AR17F9~1.EXE libTEENSY36.a

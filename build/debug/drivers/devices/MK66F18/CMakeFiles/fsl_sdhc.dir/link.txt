@@ -1,0 +1,2 @@
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\ARM-NO~2.EXE qc libfsl_sdhc.a CMakeFiles/fsl_sdhc.dir/drivers/fsl_sdhc.c.obj
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\AR17F9~1.EXE libfsl_sdhc.a

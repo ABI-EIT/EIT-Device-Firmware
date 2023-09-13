@@ -1,0 +1,2 @@
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\ARM-NO~2.EXE qc libfsl_clock.a CMakeFiles/fsl_clock.dir/drivers/fsl_clock.c.obj
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\AR17F9~1.EXE libfsl_clock.a

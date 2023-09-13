@@ -1,0 +1,2 @@
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\ARM-NO~2.EXE qc libfsl_debug_console_lite.a CMakeFiles/fsl_debug_console_lite.dir/utilities/debug_console_lite/fsl_debug_console_lite.c.obj
+C:\PROGRA~2\ARMGNU~1\112202~1.02\bin\AR17F9~1.EXE libfsl_debug_console_lite.a
