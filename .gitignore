@@ -4,5 +4,3 @@ drivers/cmsis/NN
 drivers/cmsis/RTOS
 
 .vscode/
-
-env.cmd
